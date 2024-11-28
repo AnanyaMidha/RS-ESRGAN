@@ -12,4 +12,11 @@ Validated using metrics like PSNR, SSIM, and qualitative visual analysis.
 Dataset
 This project uses paired datasets of low-resolution Sentinel-2 and high-resolution WorldView imagery. Preprocessed data is required for training.
 
+Results
+Quantitative results:
+
+PSNR: +2.5 dB over baseline.
+SSIM: Improved by 15%.
+Qualitative improvements include better edge details and spectral consistency.
+
 
